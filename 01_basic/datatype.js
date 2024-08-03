@@ -18,3 +18,39 @@ console.log("shahid");
 // object 
 console.log(typeof "hitesh ");
 console.log(typeof null );
+
+let score = "shahid";
+console.log(typeof score);
+console.log (typeof(score));
+var  accontId = true;
+console.log(typeof accontId);
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+//some important notes 
+ // "33" -> convert into numbers
+ // "33abs" -> convert into NaN 
+ // true -> 1 ; false -> 0
+  
+
+ let isLoggedIN = 1 ;
+ let booleanIsLoggedIN = Boolean(isLoggedIN);
+ console.log(booleanIsLoggedIN);
+  
+ //some important notes
+  // value 1 => true ; 0 => false 
+  // "" => false
+  // "shahid" => true 
+  
+
+  let someNumber = 22
+  let stringNumber = String(someNumber);
+  console.log(stringNumber);
+  console.log(typeof (stringNumber));
+  
+
+ 
+
+
+
